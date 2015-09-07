@@ -1,0 +1,21 @@
+<div class="city-summary">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<h3>What's on</h3>
+				<p>A list of some of the upcoming events..</p>
+				<p><a href="#">Show me all events</a></p>
+			</div>
+			<div class="col-md-4">
+				<h3>Current offers</h3>
+				<p>See what's on offer at the moment</p>
+				<p><a href="#">Show me all offers...</a></p>
+			</div>
+			<div class="col-md-4">
+				<h3>Eating and Drinking</h3>
+				<p>New restaurants, takeaways, street food, burgers and beer.</p>
+				<p><a href="#">Show me everything...</a></p>
+			</div>
+		</div>
+	</div>
+</div>

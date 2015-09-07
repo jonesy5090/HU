@@ -1,0 +1,38 @@
+.navbar {
+	border-radius: 0px;
+	margin-bottom:0;
+}
+
+.jumbotron {
+	background-image:url('http://landlordperks.com/wp-content/uploads/2015/06/manchester.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 500px;
+	margin-bottom:0;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.city-summary {
+  background-color: #f7f7f7;
+}
+
+.city-summary h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.city-summary a {
+  color: #00b0ff;
+}
