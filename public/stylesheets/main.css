@@ -27,6 +27,11 @@
   background-color: #f7f7f7;
 }
 
+.city-summary .container {
+  padding-top: 30px;
+    padding-bottom: 30px;
+}
+
 .city-summary h3 {
   font-family: 'Shift', sans-serif;
   font-size: 18px;

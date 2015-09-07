@@ -2,20 +2,31 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
+				<a href="#" class="thumbnail">
+					<img src="http://knightssecurity.org/wp-content/uploads/Live-Events-01.jpg" alt="...">
+				</a>
 				<h3>What's on</h3>
 				<p>A list of some of the upcoming events..</p>
 				<p><a href="#">Show me all events</a></p>
 			</div>
 			<div class="col-md-4">
+				<a href="#" class="thumbnail">
+					<img src="http://chicagogenie.com/wp-content/uploads/2015/04/Girls-Shopping.jpg" alt="...">
+				</a>
 				<h3>Current offers</h3>
 				<p>See what's on offer at the moment</p>
 				<p><a href="#">Show me all offers...</a></p>
 			</div>
 			<div class="col-md-4">
+				<a href="#" class="thumbnail">
+					<img src="https://s-media-cache-ak0.pinimg.com/originals/ed/79/8b/ed798b9b3e493ce7e3a7fcc827cf9e39.jpg" alt="...">
+				</a>
 				<h3>Eating and Drinking</h3>
 				<p>New restaurants, takeaways, street food, burgers and beer.</p>
 				<p><a href="#">Show me everything...</a></p>
 			</div>
-		</div>
-	</div>
-</div>
+
+		</div>	
+	</div>	
+</div>	
+
